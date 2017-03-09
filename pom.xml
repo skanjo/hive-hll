@@ -4,7 +4,7 @@
 
     <groupId>com.kresilas</groupId>
     <artifactId>hive-hll</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <packaging>jar</packaging>
     <name>Hive HLL</name>
     <description>Hive UD{A}F wrapper of https://github.com/aggregateknowledge/java-hll</description>

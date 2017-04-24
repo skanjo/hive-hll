@@ -27,7 +27,7 @@ public class AddAggUDAF extends AbstractGenericUDAFResolver {
     private static Logger log = Logger.getLogger(AddAggUDAF.class);
 
     // https://github.com/aggregateknowledge/postgresql-hll#defaults
-    static final int LOG2M = 11;
+    static final int LOG2M = 12;
     static final int REGWIDTH = 5;
     static final int EXPTHRESH = -1;
     static final boolean SPARSEON = true;
